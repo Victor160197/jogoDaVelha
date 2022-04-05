@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+h1{
+    font-size: 50px;
+    margin: 0px;
+    margin-top: -15px;
+    font-family: 'Source Serif Pro', serif;
+;
+}
+
+.quadrado {
+    text-align: center;
+    width: 50px;
+    background: #eee;
+    display: inline-block;
+    padding: 40px;
+    margin: 5px;
+
+    font-weight: bold;
+    font-size: 60px;
+    font-family: 'Source Serif Pro', serif;
+    
+    cursor: pointer;
+
+    color: #eee;
+}
+
+.jogador, .vencedor {
+    font-size: 35px;
+    margin-top: 10px;
+}
+
+button {
+    font-family: 'Source Serif Pro', serif;
+    font-size: 20px;
+    color: white;
+    margin-top: 10px;
+    width: 120px;
+    height: 40px;
+    background: black;
+    cursor: pointer;
+}
